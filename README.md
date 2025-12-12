@@ -29,6 +29,19 @@ The goal of this project is not to build a complex application, but to demonstra
 
 ---
 
+## Repository Organization
+
+- `contracts/`
+  smart contract source code (`SavingsVault.sol`)
+
+- `screenshots/`
+  Screenshots used for testing and validation
+
+- `doc/`
+  Project Documentation (PDF)
+
+---
+
 ## Notes
 
 This is a learning-focused project.  
