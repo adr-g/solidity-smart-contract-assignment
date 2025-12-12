@@ -8,7 +8,7 @@ The goal of this project is not to build a complex application, but to demonstra
 
 ## Functions
 
-- `deposit()`
+- `deposit()`  
   Allows ETH to be sent to the contract.
 
 - `withdrawAll()`
