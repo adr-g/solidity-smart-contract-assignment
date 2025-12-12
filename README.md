@@ -8,23 +8,23 @@ The goal of this project is not to build a complex application, but to demonstra
 
 ## Functions
 
-- `deposit()`  
+- `deposit()`
   Allows ETH to be sent to the contract.
 
-- `withdrawAll()`  
+- `withdrawAll()`
   Allows the owner to withdraw all ETH stored in the contract.
 
-- `getVaultBalance()`  
+- `getVaultBalance()`
   Returns the current balance of the contract.
 
 ---
 
 ## Events
 
-- `FundsDeposited`  
+- `FundsDeposited`
   Emitted when ETH is deposited into the contract.
 
-- `FundsWithdrawn`  
+- `FundsWithdrawn`
   Emitted when ETH is withdrawn by the owner.
 
 ---
